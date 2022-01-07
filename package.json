@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15",
+    "redux": "^4.1.2",
+    "redux-logger": "^3.0.6"
   }
 }
